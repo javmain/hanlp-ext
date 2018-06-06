@@ -1,4 +1,4 @@
-//package org.elasticsearch.index.analysis;
+package org.elasticsearch.index.analysis;//package org.elasticsearch.index.analysis;
 //
 //import com.hankcs.hanlp.seg.Segment;
 //import com.hankcs.hanlp.tokenizer.StandardTokenizer;
